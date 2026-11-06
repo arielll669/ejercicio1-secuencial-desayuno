@@ -1,0 +1,4 @@
+services:
+  desayuno:
+    build: .
+    container_name: ejercicio1-secuencial
